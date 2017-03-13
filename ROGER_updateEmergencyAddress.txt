@@ -2,4 +2,4 @@
 2)in adapter method for update , add 
  emergencyAddressType.setClassOfServiceCode(ClassOfServiceCodeType.fromValue(requestDetails.getClassOfServiceCode()));
 
-3)in useradapter in executeupdateemergencyaddress method add classofservicecodefield removing residential :-)
+3)in useradapter in executeupdateemergencyaddress method add classofservicecodefield removing residential
