@@ -1,4 +1,4 @@
 1) trace method till userAdapter
 2) Go to place where getEmerResponse is set
 3) go to getEmergencyAddress(xmlResponse)
-4) Inside EmergencyAddressConverter.java set ClassOfServiceCode  :-)
+4) Inside EmergencyAddressConverter.java set ClassOfServiceCode 
